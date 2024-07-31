@@ -2,7 +2,7 @@
 
 ### Hello world!
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas+Schäffel+do+Couto;I'm+from+Brazil+🟢🟡;I+study+computer+science+at+University+Veiga)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas+Schäffel;I'm+from+Brazil+🟢🟡;I+study+computer+science+at+University+Veiga)](https://git.io/typing-svg)
 
 <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LscSoneca&layout=compact&hide_border=true&title_color=00FF00&text_color=228B22&bg_color=0D1117" />
 </div>
